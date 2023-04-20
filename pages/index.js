@@ -30,11 +30,9 @@ export default function About() {
       </p>
 
       <Link href="/paint">
-        <div clasName="w-full cursor-pointer">
-          <video autoPlay loop muted playsInline>
-            <source src="/cherries-oranges-bananas.mp4" />
-          </video>
-        </div>
+        <video autoPlay loop muted playsInline className="w-full cursor-pointer">
+          <source src="/cherries-oranges-bananas.mp4" />
+        </video>
       </Link>
 
       {/* <ol className="list-decimal pl-5">
