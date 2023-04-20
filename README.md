@@ -2,8 +2,6 @@
 
 A web GUI for inpainting with [Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion) using the Replicate API.
 
-Try it out at [inpainter.vercel.app](https://inpainter.vercel.app/)
-
 https://user-images.githubusercontent.com/2289/188992670-3dc9db47-fb8e-45c1-85ee-afc850009c48.mp4
 
 ## How it works
