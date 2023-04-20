@@ -127,7 +127,7 @@ export default function Home() {
                 Run with an API
               </a>
             </Link>
-            <Link href="https://github.com/zeke/inpainter">
+            <Link href="https://github.com/icode198/inpainter">
               <a
                 className="lil-button"
                 target="_blank"

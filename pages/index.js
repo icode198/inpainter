@@ -12,7 +12,7 @@ export default function About() {
       <p className="pb-5 text-lg">
         <strong>Inpainting</strong> is a process where missing parts of an
         artwork are filled in to present a complete image. This{" "}
-        <a className="underline" href="https://github.com/zeke/inpainter">
+        <a className="underline" href="https://github.com/icode198/inpainter">
           open-source demo
         </a>{" "}
         uses the{" "}
